@@ -1,5 +1,10 @@
-## Hi there 👋
+Hi, I'm Poornachandra B — A Frontend Designer crafting seamless digital experiences at the intersection of visual design and motion.
 
+🎨 Visual & UX: Figma, Photoshop, Lightroom
+
+⚡ Prototyping & Motion: Framer
+
+💻 Frontend: HTML, CSS, JavaScript / React
 <!--
 **Poornaaaaa/Poornaaaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
