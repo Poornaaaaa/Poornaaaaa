@@ -1,6 +1,7 @@
 **Poornachandra B**
 
-Bangalore, India · linkedin.com/in/poornachandra-b-855563359/
+Bangalore, India 
+linkedin - https://www.linkedin.com/in/poornachandra-b-855563359/
 
 Hi, I'm Poornachandra B — A Frontend Designer crafting seamless digital experiences at the intersection of visual design and motion.
 
